@@ -1,3 +1,4 @@
+/* Required height of parents of the Half Page Carousel for proper displaying carousel itself */
 html,
 body,
 .view {
@@ -36,3 +37,12 @@ body,
 /* Footer color for sake of consistency with Navbar */
 .page-footer {
   background-color: #1C2331; }
+
+/*Additional css*/
+.font_s{
+  font-size: 1.3em;
+}
+
+body{
+  color: rgba(9, 54, 85, 1);
+}
