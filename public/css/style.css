@@ -46,3 +46,37 @@ body,
 body{
   color: rgba(9, 54, 85, 1);
 }
+
+.dgrey-text{
+  color: #686868  ;
+  font-size: 16px;
+}
+
+.img_food{
+  width: 400px;
+  margin-left: 50px;
+}
+
+.below_img{
+  width: 350px;
+  margin-left:70px;
+  margin-top: 30px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.below_img_1{
+  width: 200px;
+  margin-left:150px;
+  margin-top: 10px;
+  font-size: 16px;
+}
+
+.m10{
+  margin-left: -20px;
+}
+
+.inline_element{
+  display:inline-block;
+  margin-top: 100px;
+}
